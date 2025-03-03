@@ -15,6 +15,9 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1s0pLuhjluSDGf1znzmPIMaWY2S2yAxCV/edit?usp=drive_link&ouid=112284785527343759553&rtpof=true&sd=true](https://docs.google.com/document/d/1s0pLuhjluSDGf1znzmPIMaWY2S2yAxCV/edit?usp=drive_link&ouid=112284785527343759553&rtpof=true&sd=true)
 
+###
+<img align="right" height="150" src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/200.webp?cid=ecf05e47vudwyisdfycmeony5hratlzn08emmnl0jotw5to8&ep=v1_gifs_search&rid=200.webp&ct=g"  />
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mosa mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosa mohamed" height="30" width="40" /></a>
