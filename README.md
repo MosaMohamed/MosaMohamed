@@ -17,6 +17,8 @@
 
 ###
 <img align="right" height="150" src="https://media3.giphy.com/media/OZP6jGvPfTapSSLPeg/giphy.webp?cid=ecf05e47soog848zrjlguiqiy25ji7n5qpk8ghqce3t294qv&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+
+<img align="right" height="150" src="https://media3.giphy.com/media/iPj5oRtJzQGxwzuCKV/200.webp?cid=ecf05e47soog848zrjlguiqiy25ji7n5qpk8ghqce3t294qv&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 ###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
